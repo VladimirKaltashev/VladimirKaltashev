@@ -10,8 +10,8 @@ I build software projects at the intersection of product and technology. I’m i
 | [Alfa Tips](https://github.com/VladimirKaltashev/Alfa-tip-project) | A graduation project that prototypes digital tipping for cafés, with separate flows for guests, staff, and managers. | React, TypeScript, Python, SQLite |
 | [Meventur](https://github.com/kaedeze/TBankHackItOn) | A team hackathon project for organizing events in Telegram, including registration, reminders, and organizer tools. I contributed to the implementation. | Kotlin, Telegram Bot API |
 | [DANO driver-behavior analysis](https://github.com/VladimirKaltashev/SPB_DANO) | A data analysis project investigating whether changes in fuel prices were followed by different responses across driver groups. | Python, Jupyter |
-| [Countries of the World](https://github.com/VladimirKaltashev/final-project-10-1) | A searchable country catalog with population, area, and region filters, plus detailed country profiles. | FastAPI, JavaScript |
-| [TimeTracker](https://github.com/VladimirKaltashev/TimeTracker) | A browser-based time tracker with session history and productivity charts. | JavaScript, Chart.js |
+| [Countries of the World](https://github.com/VladimirKaltashev/final-project-10-1) · [Live demo](https://vladimirkaltashev.github.io/final-project-10-1/) | A searchable country catalog with population, area, and region filters, plus detailed country profiles. | FastAPI, JavaScript |
+| [TimeTracker](https://github.com/VladimirKaltashev/TimeTracker) · [Live demo](https://vladimirkaltashev.github.io/TimeTracker/) | A browser-based time tracker with session history and productivity charts. | JavaScript, Chart.js |
 
 ## Education and achievements
 
