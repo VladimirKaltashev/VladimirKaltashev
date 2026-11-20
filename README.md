@@ -1,55 +1,23 @@
-# Hi, I'm Vladimir 👋
+# Hi, I’m Vladimir Kaltashev
 
-I'm a first-year university student building projects across **product, technology, and economics**.
+I build software projects at the intersection of product and technology. I’m interested in product design, backend development, and using data to answer questions about how people behave.
 
-I enjoy understanding how things work, breaking problems down into smaller parts, and turning ideas into working products with modern technology.
+## Selected projects
 
-## 🚀 Projects & Experience
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [CORK](https://github.com/VladimirKaltashev/CORK) | A social platform where users vote Crown or Clown on posts. My work focuses on product mechanics, requirements, UX, and technical architecture. | React, TypeScript, Supabase, PostgreSQL |
+| [Alfa Tips](https://github.com/VladimirKaltashev/Alfa-tip-project) | A graduation project that prototypes digital tipping for cafés, with separate flows for guests, staff, and managers. | React, TypeScript, Python, SQLite |
+| [Meventur](https://github.com/kaedeze/TBankHackItOn) | A team hackathon project for organizing events in Telegram, including registration, reminders, and organizer tools. I contributed to the implementation. | Kotlin, Telegram Bot API |
+| [DANO driver-behavior analysis](https://github.com/VladimirKaltashev/SPB_DANO) | A data analysis project investigating whether changes in fuel prices were followed by different responses across driver groups. | Python, Jupyter |
+| [Countries of the World](https://github.com/VladimirKaltashev/final-project-10-1) | A searchable country catalog with population, area, and region filters, plus detailed country profiles. | FastAPI, JavaScript |
+| [TimeTracker](https://github.com/VladimirKaltashev/TimeTracker) | A browser-based time tracker with session history and productivity charts. | JavaScript, Chart.js |
 
-### CORK — Clown or King
+## Education and achievements
 
-A social platform built around a simple idea: instead of just liking content, users evaluate claims and achievements as **Crown** or **Clown**.
+- [T-Bank Faculty Day](https://github.com/VladimirKaltashev/faculty_day_fork_Vlad) · Year-long Kotlin backend program covering SQL, Hibernate/JPA, testing, and software architecture.
+- Prize winner at the final stage of the All-Russian Olympiad of Schoolchildren in Economics.
+- Cambridge B2 First · Grade B, 178/190.
+- Participated in product case championships by Alfa-Bank and Central University.
 
-I work primarily on the **product side** of CORK: developing the product concept, mechanics, features, requirements, UX decisions, and overall direction. I also work with the technical architecture and use AI extensively throughout the development process.
-
-`TypeScript` · `React` · `Supabase` · `PostgreSQL`
-
-### T-Bank Faculty Day
-
-A year-long educational program at **T-Bank** focused on Kotlin and backend development, with regular practical assignments and projects.
-
-Built a solid practical understanding of:
-
-`Kotlin` · `Gradle` · `SQL` · `Hibernate/JPA` · `Testing` · `Software Architecture`
-
-### TBankHackItOn — Meventur
-
-A team project for creating and managing events through Telegram.
-
-The product includes event creation and registration, notifications, payments, group events, and tools for organizers.
-
-I worked as part of the development team and contributed to a significant part of the project's implementation.
-
-`Kotlin` · `Telegram` · `Backend Development`
-
-## 🛠 Technical Background
-
-I've worked with:
-
-**Python · Kotlin · TypeScript / JavaScript · C++ · SQL**
-
-I'm particularly interested in understanding how software systems work and how technology can be used to solve real problems.
-
-Currently developing my skills in **data analysis, statistics, and AI/ML**.
-
-## 🏆 Additional Achievements
-
-- **Prize winner of the Final Stage of the All-Russian Olympiad of Schoolchildren in Economics**
-- **Cambridge B2 First (FCE)** — Grade B, **178/190**
-- Participated in product case championships by **Alfa-Bank** and **Central University**
-
-## Beyond Work
-
-🏓 Table tennis  
-🏊 Swimming  
-🧩 Speedcubing — CFOP, ~14–15s average
+I also enjoy table tennis, swimming, and speedcubing.
