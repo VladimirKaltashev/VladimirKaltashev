@@ -1,6 +1,6 @@
 # Vladimir Kaltashev
 
-I build things I can put in front of someone: a tipping flow for a café, a castle you can build in a browser, or a chart that makes a change in behaviour visible. Economics is where I learned to ask what changes when the incentives do.
+I build things I can put in front of someone: a tipping flow for a café, a Telegram app for getting people together, or a chart that makes a change in behaviour visible. Economics is where I learned to ask what changes when the incentives do.
 
 **Economics Olympiad** · National finalist and prize winner, roughly top 30 in Russia in my grade<br>
 **English** · IELTS Academic 7.5 · Cambridge B2 First 178/190
@@ -24,15 +24,15 @@ A café tipping prototype with separate experiences for guests, staff, and manag
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/VladimirKaltashev/VladimirKaltashev/blob/main/PROJECTS.md#build-your-dream-castle"><img src="./media/castle.jpg" width="100%" alt="A castle with four stone towers and four walls built in the browser prototype"></a>
-<p><strong>Build Your Dream Castle</strong><br>
-A 3D sandbox where children place towers and draw walls directly on the terrain.</p>
-<a href="https://github.com/VladimirKaltashev/VladimirKaltashev/blob/main/PROJECTS.md#build-your-dream-castle">Project notes</a>
+<a href="https://github.com/kaedeze/TBankHackItOn"><img src="./media/meventur.jpg" width="100%" alt="Meventur's Telegram mini app showing a sample event feed and the details of a table tennis meetup"></a>
+<p><strong>Meventur · Organizing events in Telegram</strong><br>
+A team hackathon project for finding events, signing up, and getting reminders. The preview shows the event feed and a sample listing.</p>
+<a href="https://github.com/kaedeze/TBankHackItOn">Team project and code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/VladimirKaltashev/CORK"><img src="./media/cork.jpg" width="100%" alt="CORK design study showing how a post and its Crown or Clown vote could look"></a>
+<a href="https://github.com/VladimirKaltashev/CORK"><img src="./media/cork.jpg" width="100%" alt="Sample CORK feed post with Crown and Clown controls and a 73 to 27 percent vote split"></a>
 <p><strong>CORK · Crown or Clown</strong><br>
-A social app built around two competing reactions. The preview is from the design lab for its feed.</p>
+A social app where people react to posts with a Crown or a Clown vote. The preview shows how the two sides add up on a sample post.</p>
 <a href="https://github.com/VladimirKaltashev/CORK">Project and code</a>
 </td>
 </tr>
@@ -40,7 +40,7 @@ A social app built around two competing reactions. The preview is from the desig
 
 ## More projects
 
-- **[Meventur](https://github.com/kaedeze/TBankHackItOn)** · A team hackathon project for running events in Telegram, from sign-ups to reminders.
+- **[Build Your Dream Castle](https://github.com/VladimirKaltashev/VladimirKaltashev/blob/main/PROJECTS.md#build-your-dream-castle)** · An early browser prototype for placing towers and drawing walls in 3D.
 - **[Doonext](https://github.com/VladimirKaltashev/VladimirKaltashev/blob/main/PROJECTS.md#doonext)** · My Telegram planner for tasks, deadlines, and completed work.
 - **[SAT Practice Trainer](https://github.com/VladimirKaltashev/VladimirKaltashev/blob/main/PROJECTS.md#sat-practice-trainer)** · A local trainer for timed Reading and Writing practice and answer review.
 
